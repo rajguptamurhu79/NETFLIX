@@ -1,0 +1,12 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "This project is a responsive clone of the Netflix landing page, created using HTML, CSS, and JavaScript. It mimics the design and basic functionality of the Netflix homepage, providing a similar user experience.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
